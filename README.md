@@ -2,10 +2,10 @@
 
 Web developer with a background in design and focus on full stack development. Developing interactive, user-friendly, and scalable digital experience. I excel in working on cross-functional teams ensuring high-quality output and efficient performance.
 
-- 🔭 I’m currently studying at BrainStation.
-- 🌱 I’m currently learning database and mySQL.
+- 🔭 Graduated from BrainStation September 2022.
+- 🌱 I’m currently practicing algorithm and data structure for job interviews.
 - 👯 I’m looking to collaborate on any project small to large.
-- 🤔 I’m looking for help with fullstack development.
+- 🤔 I’m looking for fullstack software development jobs. Remote in Canada, or onsite in Toronto.
 - 💬 Ask me about: design, webdev, latest tech news, video games.
 - 📫 How to reach me: linkedin.com/in/abrarfahimr/
 - 😄 Pronouns: he/him.
