@@ -3,7 +3,7 @@
 Web developer with a background in design and focus on full stack development. Developing interactive, user-friendly, and scalable digital experience. I excel in working on cross-functional teams ensuring high-quality output and efficient performance.
 
 - 🔭 Graduated from BrainStation September 2022.
-- 🌱 I’m currently learning Python 🐍.
+- 🌱 I’m currently working as a Full-Stack Software Engineer for [TheirCircle](https://www.theircircleapp.com/).
 - 👯 I’m looking to collaborate on any project small to large.
 - 🤔 I’m looking for fullstack software development jobs. Remote in Canada, or onsite in Toronto.
 - 💬 Ask me about: design, webdev, latest tech news, video games.
