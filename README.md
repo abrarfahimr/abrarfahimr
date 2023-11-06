@@ -14,7 +14,7 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
-<picture> <img align="top-right" src="https://abrarfahimr.com/static/media/memoji.b66b9087cbd290d9abab.png" width = 300px></picture>
+<picture> <img align="right" src="https://abrarfahimr.com/static/media/memoji.b66b9087cbd290d9abab.png" width = 300px></picture>
 
 - 💼: A Toronto-based Full Stack Developer bringing interactive, user-friendly, and scalable digital experiences to you
 - :school: I am a `Graduate` at [BrainStation Bootcamp](https://brainstation.io/) and an Alumni from [University of Toronto](https://www.utoronto.ca/)
@@ -82,8 +82,8 @@
 
 
 <h2>Connect with me!</h2>
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/abrarfahimr/) [<img src = "https://img.shields.io/badge/Gmail-D94F3D?style=for-the-badge&logo=Gmail&logoColor=white">](mailto:abrarfahimr@gmail.com) 
-
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/abrarfahimr/) [<img src = "https://img.shields.io/badge/Gmail-D94F3D?style=for-the-badge&logo=Gmail&logoColor=white">](mailto:abrarfahimr@gmail.com)
+<br> <br>
 
 <!---Notable Projects---->
 ### Coffee Corner Dashboard
