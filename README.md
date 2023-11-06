@@ -78,9 +78,6 @@
 
 <br>
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats
-
-
 <h2>Connect with me!</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/abrarfahimr/" target="blank"><img align="center" src="https://img.shields.io/badge/Linkedin-3375B2?style=for-the-badge&logo=Linkedin&logoColor=white" alt="abrarfahimr"/></a>
