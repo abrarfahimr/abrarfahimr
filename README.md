@@ -84,6 +84,7 @@
 <a href="mailto:abrarfahimr@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D94F3D?style=for-the-badge&logo=Gmail&logoColor=white" alt="abrarfahimr"/></a>
 </p>
 
+<br>
 
 <!---Notable Projects---->
 ### Coffee Corner Dashboard
