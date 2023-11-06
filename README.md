@@ -87,6 +87,7 @@
 <br>
 
 <!---Notable Projects---->
+<h2>Notable Projects</h2>
 ### Coffee Corner Dashboard
 Coffee Corner is my fullstack capstone project at BrainStation called Coffee Corner. It is a dashboard for a startup company focused on selling different brands of coffee. The goal is to help make better business decisions through dynamic data visualization and manage and maintain data on products and customers.
 [Frontend Repo](https://github.com/abrarfahimr/coffee-corner-frontend) | [Backend Repo](https://github.com/abrarfahimr/coffee-corner-backend)
