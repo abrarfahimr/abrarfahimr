@@ -82,8 +82,10 @@
 
 
 <h2>Connect with me!</h2>
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/abrarfahimr/) [<img src = "https://img.shields.io/badge/Gmail-D94F3D?style=for-the-badge&logo=Gmail&logoColor=white">](mailto:abrarfahimr@gmail.com)
-<br> <br>
+<p align="center">
+<a href="https://www.linkedin.com/in/abrarfahimr/" target="blank"><img align="center" src="https://img.shields.io/badge/Linkedin-3375B2?style=for-the-badge&logo=Linkedin&logoColor=white" alt="abrarfahimr"/></a>
+<a href="mailto:abrarfahimr@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D94F3D?style=for-the-badge&logo=Gmail&logoColor=white" alt="abrarfahimr"/></a>
+</p>
 
 <!---Notable Projects---->
 ### Coffee Corner Dashboard
