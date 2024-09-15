@@ -18,7 +18,6 @@
 
 - 💼: A Toronto-based Full Stack Developer bringing interactive, user-friendly, and scalable digital experiences to you
 - :school: I am a `Graduate` at [BrainStation Bootcamp](https://brainstation.io/) and an Alumni from [University of Toronto](https://www.utoronto.ca/)
-- :technologist: **Currently working for** [TheirCircle](https://www.theircircle.group/) with focus on `Full-Stack Development`
 - :boom: You can visit [MY WEBSITE](https://abrarfahimr.com/) to know more about me!
 - :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=Abrar&amp;color=EA4335&amp;style=flat-square)](mailto:abrarfahimr@gmail.com)
 - :nerd_face: Interests & Hobbies: `Technology` `Software Dev` `Art` `Manga` `Video Games`
