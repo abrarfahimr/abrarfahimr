@@ -49,14 +49,12 @@
 
 ![Node.js](https://img.shields.io/badge/Node.js-679F4F?style=flat-square&logo=Node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-3F4A55?style=flat-square&logo=Express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-132C20?style=flat-square&logo=Django&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-F7CE53?style=flat-square&logo=Firebase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-5B9C47?style=flat-square&logo=MongoDB&logoColor=white)
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 20px>  </picture> Software & Tools
 
-![Webpack](https://img.shields.io/badge/Webpack-3872B4?style=flat-square&logo=Webpack&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-6C4AB0?style=flat-square&logo=Redux&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-5F58EE?style=flat-square&logo=Stripe&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
