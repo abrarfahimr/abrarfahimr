@@ -42,8 +42,6 @@
 ![Flutter](https://img.shields.io/badge/Flutter-6FBDEB?style=flat-square&logo=Flutter&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/Typescript-4272BA?style=flat-square&logo=Typescript&logoColor=white)
 ![SASS](https://img.shields.io/badge/Sass-C06C98?style=flat-square&logo=Sass&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=Axios&logoColor=white)
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 20px>  </picture> Backend Developement
 
