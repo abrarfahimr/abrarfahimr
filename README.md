@@ -14,7 +14,7 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
-<picture> <img align="right" src="https://abrarfahimr.com/static/media/memoji.b66b9087cbd290d9abab.png" width = 300px></picture>
+<picture> <img style="float: right; margin-left: 20px; margin-right: 20px;" src="https://abrarfahimr.com/static/media/memoji.b66b9087cbd290d9abab.png" width = 300px></picture>
 
 - 💼: A Master's Student at Northeastern University, Boston. Specializing in Machine Learning, Deep Learning, and Natural Language Processing.
 - :school: Currently doing my Master's in CS from Northeastern University.
