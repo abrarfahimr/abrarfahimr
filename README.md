@@ -25,10 +25,10 @@
 <br>
 
 ## 🛠️ My Skills
-**Programming Languages**: Python, Java, C/C++, MATLAB, JavaScript, SQL, Firebase
-**Frameworks**: React, Node.js, NumPy, Pandas, PyTorch, Keras, Scikit-learn, TensorFlow, OpenCV
-**Core Competencies**: Deep Learning, Natural Language Processing, Reinforcement Learning, Predictive Modeling
-**Tools**: Git, Agile Methodologies, REST APIs, Docker, Amazon Web Services
+**Programming Languages**: Python, Java, C/C++, MATLAB, JavaScript, SQL, Firebase <br>
+**Frameworks**: React, Node.js, NumPy, Pandas, PyTorch, Keras, Scikit-learn, TensorFlow, OpenCV <br>
+**Core Competencies**: Deep Learning, Natural Language Processing, Reinforcement Learning, Predictive Modeling <br>
+**Tools**: Git, Agile Methodologies, REST APIs, Docker, Amazon Web Services <br>
 
 <h2>Connect with me!</h2>
 <p align="center">
