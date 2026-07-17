@@ -10,7 +10,6 @@
 <!--About Me-->
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
-- 💼: A Master's Student at Northeastern University, Boston. Specializing in Machine Learning, Deep Learning, and Natural Language Processing.
 - :school: Currently doing my Master's in CS from Northeastern University.
 - :boom: [My Website](https://abrarfahimr.com/)
 - :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=Abrar&amp;color=EA4335&amp;style=flat-square)](mailto:abrarfahimr@gmail.com)
