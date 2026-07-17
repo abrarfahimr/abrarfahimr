@@ -12,7 +12,6 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 - :school: Currently doing my Master's in CS from Northeastern University.
 - :boom: [My Website](https://abrarfahimr.com/)
-- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=Abrar&amp;color=EA4335&amp;style=flat-square)](mailto:abrarfahimr@gmail.com)
 - :nerd_face: Interests & Hobbies: `Technology` `Software Dev` `Art` `Manga` `Video Games`
 
 <br>
@@ -30,9 +29,3 @@
 </p>
 
 <br>
-
-<!---Notable Projects---->
-<h2>Notable Projects</h2>
-
-### Urgent Care Management System
-https://github.com/abrarfahimr/Urgent-Care-Management-System
